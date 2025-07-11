@@ -47,9 +47,9 @@ It offers:
 
 This GitHub organization contains all public repositories related to Sync-in, including:
 
-- 🖇️ Sync-in server
-- 🖥️ Desktop & CLI clients
-- 🐳 Docker compose
+- 🗄️ [Sync-in server](https://github.com/Sync-in/server)
+- 🖥️ [Desktop & CLI apps](https://github.com/Sync-in/desktop)
+- 🐳 [Docker](https://github.com/Sync-in/docker)
 
 Each repository contains its own documentation, issues, and contribution guidelines.
 
