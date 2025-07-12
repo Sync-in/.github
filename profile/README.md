@@ -43,15 +43,13 @@ It offers:
 
 ---
 
-## 🧩 Projects
+## 🧩 Project Resources
 
-This GitHub organization contains all public repositories related to Sync-in, including:
-
-- 🗄️ [Server](https://github.com/Sync-in/server)
-- 🖥️ [Desktop & CLI apps](https://github.com/Sync-in/desktop)
-- 🐳 [Docker](https://github.com/Sync-in/docker)
-
-Each repository contains its own documentation, issues, and contribution guidelines.
+- 🌍 **Official website**: [https://sync-in.com](https://sync-in.com)
+- 📖 **Documentation**: [https://sync-in.com/docs](https://sync-in.com/docs)
+- 🔄 **Server** - Full-stack server : [https://github.com/Sync-in/server](https://github.com/Sync-in/server)
+- 💻 **Desktop & CLI** - Cross-platform desktop app and command-line interface : [https://github.com/Sync-in/desktop](https://github.com/Sync-in/desktop)
+- 🐳 **Docker** - Docker images and deployment configuration : [https://github.com/Sync-in/docker](https://github.com/Sync-in/docker)
 
 ---
 
