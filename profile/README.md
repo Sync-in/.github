@@ -25,7 +25,7 @@ It offers:
 - 🛡️ **Privacy-first design**: No tracking, no telemetry. What you store is yours, and stays private.
 - ⚙️ **Granular permission system**: Manage user and group access with space-level and file-level controls.
 - 🔄 **Synchronization**: Keep files synced across devices with native desktop clients (Windows, macOS, Linux).
-- 📄 **Collaborative editing**: Work on documents together in real time with OnlyOffice integration.
+- 📄 **Collaborative editing**: Work on documents together in real time with [OnlyOffice](https://www.onlyoffice.com) integration.
 - 🗂️ **Spaces**: Organize your content into secure, shareable spaces — personal, team, or public.
 - 👥 **Secure sharing**: Share files and folders with specific users or groups, with full access control
 - 🔗 **Public link sharing**: Generate secure, time-limited public links to share content easily with anyone.
@@ -47,7 +47,7 @@ It offers:
 
 This GitHub organization contains all public repositories related to Sync-in, including:
 
-- 🗄️ [Sync-in server](https://github.com/Sync-in/server)
+- 🗄️ [Server](https://github.com/Sync-in/server)
 - 🖥️ [Desktop & CLI apps](https://github.com/Sync-in/desktop)
 - 🐳 [Docker](https://github.com/Sync-in/docker)
 
@@ -57,8 +57,8 @@ Each repository contains its own documentation, issues, and contribution guideli
 
 ## 📜 License
 
-Sync-in is distributed under the **AGPL v3.0 license**, ensuring its transparency and commitment to the open-source
-community.
+This project is licensed under the **GNU Affero General Public License (AGPL-3.0-or-later)**.  
+See [LICENSE](../LICENSE) for the full text.
 
 ---
 
@@ -76,3 +76,7 @@ If you find it useful, you can:
 - 💖 Support the project via :
     - [Paypal](https://www.paypal.com/donate/?business=HU3F3CMDDH7YJ&no_recurring=0&item_name=I+rely+on+your+donations+to+grow+the+Sync-in+open+source+project.+Thank+you+for+your+support+%E2%80%94+it+truly+makes+a+difference%21&currency_code=EUR)
     - [Liberapay](https://liberapay.com/sync-in)
+
+---
+
+_Thank you for using **Sync-in** ! 🚀_
