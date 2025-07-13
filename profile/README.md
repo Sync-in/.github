@@ -59,7 +59,7 @@ It offers:
 
 ---
 
-## 💛 Support & Contribution
+## 💛 Support
 
 Sync-in is an independent open source project.  
 If you find it useful, you can:
