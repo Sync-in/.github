@@ -38,7 +38,7 @@ It offers:
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/Sync-in/assets/main/server-dark.png" media="(prefers-color-scheme: dark)" />
-  <img src="https://raw.githubusercontent.com/Sync-in/assets/main/server.png" alt="Sync-in" height="500" height="auto" />
+  <img src="https://raw.githubusercontent.com/Sync-in/assets/main/server.png" alt="Sync-in" style="max-height: 500px"/>
 </picture>
 
 ---
