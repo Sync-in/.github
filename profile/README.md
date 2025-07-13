@@ -59,15 +59,6 @@ It offers:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **GNU Affero General Public License (AGPL-3.0-or-later)**.  
-See [LICENSE](../LICENSE) for the full text.
-
-Sync-in® is a registered trademark, see our [Trademark Policy](https://sync-in.com/docs/about/trademark).
-
----
-
 ## 💛 Support & Contribution
 
 Sync-in is an independent open source project.  
@@ -77,11 +68,28 @@ If you find it useful, you can:
 - 🐛 Report issues and suggest improvements
 - 🤝 Contribute code, translations, or documentation
 - 💬 Join the community on :
-    - [Discord](https://discord.gg/qhJyzwaymT)
-    - [Stack Overflow](https://stackoverflow.com/questions/tagged/sync-in)
+  - [Discord](https://discord.gg/qhJyzwaymT)
+  - [Stack Overflow](https://stackoverflow.com/questions/tagged/sync-in)
 - 💖 Support the project via :
-    - [Paypal](https://www.paypal.com/donate/?business=HU3F3CMDDH7YJ&no_recurring=0&item_name=I+rely+on+your+donations+to+grow+the+Sync-in+open+source+project.+Thank+you+for+your+support+%E2%80%94+it+truly+makes+a+difference%21&currency_code=EUR)
-    - [Liberapay](https://liberapay.com/sync-in)
+  - [Paypal](https://www.paypal.com/donate/?business=HU3F3CMDDH7YJ&no_recurring=0&item_name=I+rely+on+your+donations+to+grow+the+Sync-in+open+source+project.+Thank+you+for+your+support+%E2%80%94+it+truly+makes+a+difference%21&currency_code=EUR)
+  - [Liberapay](https://liberapay.com/sync-in)
+
+---
+
+## 🤝 Contributing
+Before submitting your pull request, please confirm the following:
+
+- ✅ I have read and followed the [contribution guide](../readme/CONTRIBUTING.md).
+- ✅ I am submitting this pull request in good faith and to help improve Sync-in.
+
+---
+
+## 📜 License
+
+This project is licensed under the **GNU Affero General Public License (AGPL-3.0-or-later)**.  
+See [LICENSE](../LICENSE) for the full text.
+
+Sync-in® is a registered trademark, see our [Trademark Policy](https://sync-in.com/docs/about/trademark).
 
 ---
 

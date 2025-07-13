@@ -1,7 +1,7 @@
 # Contributor License Agreement (CLA)
 
 ## 1. Introduction
-Thank you for your interest in contributing to **Sync-in**.
+Thank you for your interest in contributing to **Sync-in**. 
 This Contributor License Agreement (CLA) clarifies the intellectual property rights related to your contributions. By submitting your contributions, you agree to the following terms.
 
 ## 2. Definitions
@@ -13,8 +13,8 @@ This Contributor License Agreement (CLA) clarifies the intellectual property rig
 By submitting a contribution, you grant the **Author** a **perpetual, worldwide, non-exclusive, royalty-free, irrevocable license** to distribute your contributions under:
 - The project's current open source license (**AGPL-3.0-or-later**), and
 - Any other open source license the Author may adopt in the future.
-  You also grant the Author the right to offer commercial licenses for the project, including your contribution, without requiring additional permission or compensation.
-  The project will always remain available under an open source license.
+You also grant the Author the right to offer commercial licenses for the project, including your contribution, without requiring additional permission or compensation.
+The project will always remain available under an open source license.
 
 ## 4. Grant of Patent License
 - By submitting a contribution, you also grant the **Author** a **perpetual, worldwide, non-exclusive, royalty-free, irrevocable patent license** to make, use, sell, import, and transfer your contributions, to the extent that such a license is necessary to use your contributions.
