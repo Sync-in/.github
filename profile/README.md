@@ -10,24 +10,27 @@ _Welcome to the official Sync-in GitHub repository!_
 - 🌍 [Website](https://sync-in.com)
 - 📄 [Documentation](https://sync-in.com/docs)
 - 🧪 [Try the demo](https://sync-in.com/docs/demo)
+- 🐳 [Deploy with Docker](https://sync-in.com/docs/setup-guide/docker)
+- 📦 [Deploy with NPM](https://sync-in.com/docs/setup-guide/npm)
 
 <a href="#-license"><img src="https://img.shields.io/badge/Licence-AGPL%20v3.0-green.svg" alt="License"/></a>
-<a href="https://discord.gg/qhJyzwaymT" target="_blank"><img src="https://img.shields.io/discord/1391081837849346088?logo=discord&label=Discord" alt="Discord"/></a>
-<a href="https://www.npmjs.com/package/@sync-in/server" target="_blank"><img src="https://img.shields.io/npm/d18m/@sync-in/server.svg?logo=npm&label=NPM%20Downloads&color=cb3837" alt="NPM"/></a>
+<a href="https://github.com/Sync-in/server/releases" target="_blank"><img src="https://img.shields.io/github/v/release/Sync-in/server?sort=semver&display_name=tag&style=flat&logo=github&label=Release" alt="GitHub Release"/></a>
 <a href="https://hub.docker.com/r/syncin/server" target="_blank"><img src="https://img.shields.io/docker/pulls/syncin/server?logo=docker&label=Docker%20Hub%20Pulls" alt="Docker pulls"/></a>
+<a href="https://www.npmjs.com/package/@sync-in/server" target="_blank"><img src="https://img.shields.io/npm/d18m/@sync-in/server.svg?logo=npm&label=NPM%20Downloads&color=cb3837" alt="NPM"/></a>
+<a href="https://discord.gg/qhJyzwaymT" target="_blank"><img src="https://img.shields.io/discord/1391081837849346088?logo=discord&label=Discord" alt="Discord"/></a>
 
 ---
 
 ## ✨ What is Sync-in?
 
-**Sync-in** is a **secure**, **open-source platform** for file sharing, synchronization, and collaboration — built to
+**Sync-in** is a **secure**, **open-source platform** for file sharing, synchronization, and collaboration, built to
 give **individuals and organizations full control** over their data.  
 It lets you **host your own workspace**, where you can **organize, access, and collaborate** on **files, notes, and
 documents** with your team, your friends, or just for yourself.
 
 It offers:
 
-- 🔐 **Data sovereignty**: Your files stay on your infrastructure — no third-party cloud, full control.
+- 🔐 **Data sovereignty**: Your files stay on your infrastructure: no third-party cloud, full control.
 - 🛡️ **Privacy-first design**: No tracking, no telemetry. What you store is yours, and stays private.
 - ⚙️ **Granular permission system**: Manage user and group access with space-level and file-level controls.
 - 🔄 **Synchronization**: Keep files synced across devices with native desktop clients (Windows, macOS, Linux).
