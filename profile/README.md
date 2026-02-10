@@ -25,10 +25,10 @@ _Welcome to the Sync-in GitHub repository!_
 
 ## ✨ What is Sync-in?
 
-**Sync-in** is a **secure**, **open-source platform** for file sharing, synchronization, and collaboration, built to
-give **individuals and organizations full control** over their data.  
-It lets you **host your own workspace**, where you can **organize, access, and collaborate** on **files, notes, and
-documents** with your team, your friends, or just for yourself.
+Sync-in is a **secure, open-source platform** for **file sharing, synchronization, and collaboration**, designed to give individuals and organizations
+**full control over their files and documents**.
+
+It allows you to host your **own workspace** to **organize, access, and collaborate on content** with your team, your community, or for personal use.
 
 👉 [Explore all features](https://sync-in.com)
 
@@ -48,12 +48,12 @@ If you find it useful, you can:
 - 🐛 Report issues and suggest improvements
 - 🤝 Contribute code, translations, or documentation
 - 💬 Join the community on :
-  - [Github Server Discussions](https://github.com/Sync-in/server/discussions)
-  - [Github Desktop Discussions](https://github.com/Sync-in/desktop/discussions)
-  - [Discord](https://discord.gg/qhJyzwaymT)
+    - [Github Server Discussions](https://github.com/Sync-in/server/discussions)
+    - [Github Desktop Discussions](https://github.com/Sync-in/desktop/discussions)
+    - [Discord](https://discord.gg/qhJyzwaymT)
 - 💖 Support the project !
-  - [GitHub Sponsors](https://github.com/sponsors/Sync-in)
-  - [Other ways to support](https://sync-in.com/support)
+    - [GitHub Sponsors](https://github.com/sponsors/Sync-in)
+    - [Other ways to support](https://sync-in.com/support)
 
 ---
 
